@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702112027 source:c:\users\zita\documents\kuliah data science\sem3\struktur data\tubes\tubes1\main.cpp
+	<iostream>
+	"tubes1.h"
+
+1702106499 c:\users\zita\documents\kuliah data science\sem3\struktur data\tubes\tubes1\tubes1.h
+	<iostream>
+
+1702044645 source:c:\users\zita\documents\kuliah data science\sem3\struktur data\tubes\tubes1\tubes1.cpp
+	<iostream>
+	"tubes1.h"
+
